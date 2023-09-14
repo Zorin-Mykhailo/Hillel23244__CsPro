@@ -1,0 +1,47 @@
+[33mcommit 37f689169db9f152803ac20c657c36b01e84192d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 298cbc5 ccbee61
+Author: Zorin Mykhailo <49629463+Zorin-Mykhailo@users.noreply.github.com>
+Date:   Tue Sep 5 15:47:08 2023 +0300
+
+    Merge pull request #2 from Zorin-Mykhailo/Zorin_2
+    
+    Homework 02 finished
+
+[33mcommit ccbee61a207452203e2d2e0ca22fece3265e1efc[m[33m ([m[1;31morigin/Zorin_2[m[33m, [m[1;32mZorin_2[m[33m)[m
+Author: Zorin Mikhail <zorin.mikhail.84284@gmail.com>
+Date:   Tue Sep 5 15:45:40 2023 +0300
+
+    HW02 finished
+
+[33mcommit 298cbc5b1fcffad9c9bf869a5765bc251d46f7da[m
+Merge: b2242ff 0fd52a9
+Author: Zorin Mykhailo <49629463+Zorin-Mykhailo@users.noreply.github.com>
+Date:   Tue Sep 5 15:38:57 2023 +0300
+
+    Merge pull request #1 from Zorin-Mykhailo/HW02
+    
+    HW02 finished
+
+[33mcommit 0fd52a93b25df35d9a8a0210880f8de544bbeb4e[m[33m ([m[1;31morigin/HW02[m[33m, [m[1;32mHW02[m[33m)[m
+Author: Zorin Mikhail <zorin.mikhail.84284@gmail.com>
+Date:   Tue Sep 5 15:36:04 2023 +0300
+
+    HW02 finished
+
+[33mcommit b2242ff08f56c55f122953b9e149f54a6ed393e2[m
+Author: Zorin Mikhail <zorin.mikhail.84284@gmail.com>
+Date:   Tue Sep 5 10:27:18 2023 +0300
+
+    First commit
+
+[33mcommit e07c6b560077d51714da92432636022f46b89114[m
+Author: Zorin Mikhail <zorin.mikhail.84284@gmail.com>
+Date:   Tue Sep 5 10:23:37 2023 +0300
+
+    Add project files.
+
+[33mcommit 714d32cdddb76ef61fce4b9051f0dbbde2bb3892[m
+Author: Zorin Mikhail <zorin.mikhail.84284@gmail.com>
+Date:   Tue Sep 5 10:23:35 2023 +0300
+
+    Add .gitattributes, .gitignore, and README.md.
