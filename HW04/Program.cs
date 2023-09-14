@@ -4,7 +4,7 @@ namespace HW04
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             
