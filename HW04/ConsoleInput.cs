@@ -77,7 +77,8 @@ namespace HW04
             String? consoleInput = GetConsoleInput(inputPrompt);
             Boolean consoleInputIsEmpty = String.IsNullOrWhiteSpace(consoleInput);
             result = null;
-            if (Int32.TryParse(consoleInput, out Int32 value) || consoleInputIsEmpty)
+
+            if(Enum.TryParse<EGender>(consoleInput, out EGender value) || consoleInputIsEmpty)
             {
                 if (!consoleInputIsEmpty)
                     result = (EGender)value;
