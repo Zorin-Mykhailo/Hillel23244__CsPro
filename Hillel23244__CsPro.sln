@@ -7,10 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW02", "HW02\HW02.csproj", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{7EB1FD3A-3738-42E2-93AC-95BBBC43EFCF}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW04", "HW04\HW04.csproj", "{E538CCD3-7673-43D9-935C-EEF22461DED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW04", "HW04\HW04.csproj", "{E538CCD3-7673-43D9-935C-EEF22461DED2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
