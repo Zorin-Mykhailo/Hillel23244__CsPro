@@ -6,7 +6,8 @@ namespace HW04
     {
         static void Main(String[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.Unicode;
+            Console.InputEncoding = Encoding.Unicode;
             
             Console.WriteLine("✨ Створення нового користувача. Задайте необхідні параметри:");
             ConsoleInput.Take(out String lastName, " • Прізвище", Validation.IsNotEmpty, Validation.ContainsOnlyLetters);
