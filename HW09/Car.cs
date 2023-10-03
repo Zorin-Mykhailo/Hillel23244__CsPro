@@ -2,6 +2,8 @@
 
 public abstract class Car
 {
+    public abstract Int32 EnginePower_Horses { get; set; }
+
     public String Name { get; set; }
 
     public Int32 NumberOfSeats { get; set; }
@@ -15,9 +17,11 @@ public abstract class Car
         ManufacturingDate = manufacturingDate;
     }
 
+    public abstract String GetCarDescription();
+
     public virtual Int32 GetNumberOfSeats() => NumberOfSeats;
 
     public Int32 GetYear() => ManufacturingDate.Year;
 
-    public override string ToString() => Name;
+    public override String ToString() => Name;
 }
