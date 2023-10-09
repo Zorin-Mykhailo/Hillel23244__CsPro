@@ -1,4 +1,6 @@
-﻿namespace HW09;
+﻿using HW09_Base;
+
+namespace HW09;
 
 public class Minivan : Car
 {

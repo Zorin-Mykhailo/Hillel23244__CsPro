@@ -1,4 +1,4 @@
-﻿namespace HW09;
+﻿namespace HW09_Base;
 
 public class CarManager<T> where T : Car
 {
